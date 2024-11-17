@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Artefacts Table</title>
+  <link rel="stylesheet" href="/css/home.css">
+</head>
+
+<body>
+  <table id="artefactsTable" border="1" class="dataframe styled-table">
+    <thead>
+      <tr style="text-align: right;">
+        <th>Artefact Set</th>
+        <th>Flower</th>
+        <th>Feather</th>
+        <th>Zonya</th>
+        <th>Goblet</th>
+        <th>Crown</th>
+        <th>Character</th>
+      </tr>
+      <tr style="text-align: right;">
+        <th><input type="text" id="searchArtefactSet" onkeyup="filterTable(0)" placeholder="Search for Artefact Set">
+        </th>
+        <th><input type="text" id="searchFlower" onkeyup="filterTable(1)" placeholder="Search for Flower"></th>
+        <th><input type="text" id="searchFeather" onkeyup="filterTable(2)" placeholder="Search for Feather"></th>
+        <th><input type="text" id="searchZonya" onkeyup="filterTable(3)" placeholder="Search for Zonya"></th>
+        <th><input type="text" id="searchGoblet" onkeyup="filterTable(4)" placeholder="Search for Goblet"></th>
+        <th><input type="text" id="searchCrown" onkeyup="filterTable(5)" placeholder="Search for Crown"></th>
+        <th><input type="text" id="searchCharacter" onkeyup="filterTable(6)" placeholder="Search for Character"></th>
+      </tr>
+    </thead>
+    <tbody id="artefactsTableBody">
+    </tbody>
+  </table>
+
+  <script src="javascript/home.js"></script>
+  <script src="javascript/artifactSets.js"></script>
+
+
+
+</body>
+
+</html>

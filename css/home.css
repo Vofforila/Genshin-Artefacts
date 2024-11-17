@@ -1,0 +1,45 @@
+body {
+   font-family: Arial, sans-serif;
+   background-color: #212121;
+}
+
+.styled-table {
+   border-collapse: collapse;
+   margin: 25px 0;
+   font-size: 0.9em;
+   border-radius: 5px 5px 0 0;
+   overflow: hidden;
+   box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+   color: white;
+   background-color: #212121;
+}
+
+img {
+   width: 100px;
+   height: 100px;
+}
+
+.styled-table thead tr {
+   background-color: #705a5a;
+   color: #ffffff;
+   text-align: left;
+   font-weight: bold;
+}
+
+.styled-table th,
+.styled-table td {
+   padding: 12px 15px;
+}
+
+input[type="input"] {
+   font-size: 24px;
+   color: var(--secondary-color);
+   border-radius: 8px;
+   background-color: var(--primary-color);
+   padding-left: 8px;
+   box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, 0.5),
+      7px 7px 20px 0px rgba(0, 0, 0, 0.1), 4px 4px 5px 0px rgba(0, 0, 0, 0.1);
+   background: linear-gradient(0deg, rgba(42, 33, 48, 1) 0%, #2a2130 100%);
+   border: none;
+   outline: none;
+}
