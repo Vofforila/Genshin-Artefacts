@@ -1,0 +1,35 @@
+Colors:
+60%: #4E3C57 Transparent / Solid #2A2130
+30%: #white
+10%: #B0D7FF
+
+8px 16px 24px 32px
+
+<p> - small medium big heading title 
+<p> - smallweight mediumweight bigweight
+
+Shadow Style:
+border-radius: 8px;
+box-shadow: inset 2px 2px 2px 0px rgba(255, 255, 255, 0.5),
+      7px 7px 20px 0px rgba(150, 70, 70, 0.1),
+      4px 4px 5px 0px rgba(255, 255, 255, 0.1);
+background: linear-gradient(0deg, #2a2130 0%, #4e3c57 100%);
+border: none;
+outline: none;
+padding: 16px 8px 16px 8px;
+
+
+display: flex;
+flex-direction: column;
+justify-content: flex-start;
+align-items: normal;
+flex-wrap: nowrap;
+align-content: normal;
+gap: 8px;
+padding: 16px 8px 16px 8px;
+
+flex: 1/2/3;
+1 - grow,
+2 - how fast it shrinks
+3 - pixel overwrite
+align-self: center;

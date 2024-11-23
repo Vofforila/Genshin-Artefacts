@@ -1,0 +1,96 @@
+#artefact-table {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: normal;
+  flex-wrap: nowrap;
+  align-content: normal;
+  gap: 8px;
+  padding: 16px 8px 16px 8px;
+}
+
+#artefact-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: normal;
+  flex-wrap: nowrap;
+  align-content: normal;
+  gap: 8px;
+  padding: 16px 8px 16px 8px;
+}
+
+.artefact {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: normal;
+  flex-wrap: nowrap;
+  align-content: normal;
+  gap: 0px;
+  padding: 16px 8px 16px 8px;
+  background-color: #97642f;
+  height: 320px;
+}
+
+.artefact-horizontal-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: normal;
+  flex-wrap: nowrap;
+  align-content: normal;
+  gap: 8px;
+  padding: 16px 8px 16px 8px;
+}
+
+.artefact-vertical-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: normal;
+  flex-wrap: nowrap;
+  align-content: normal;
+  gap: 8px;
+  padding: 16px 8px 16px 8px;
+}
+
+.artefact-substats {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: normal;
+  flex-wrap: nowrap;
+  align-content: normal;
+  gap: 8px;
+  padding: 16px 8px 16px 8px;
+  background-color: rgb(158, 152, 152);
+}
+
+#perfect-artefact-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: normal;
+  flex-wrap: nowrap;
+  align-content: normal;
+  gap: 8px;
+  padding: 16px 8px 16px 8px;
+}
+
+.perfect-artefact {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: normal;
+  flex-wrap: nowrap;
+  align-content: normal;
+  gap: 0px;
+  padding: 16px 8px 16px 8px;
+  background-color: #97642f;
+  max-height: 320px;
+}
+
+img {
+  max-width: 100px;
+}
