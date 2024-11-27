@@ -5,6 +5,7 @@
     "sands": "ATK + CRIT + ATK + HP + EC",
     "goblet": "HYDRO + CRIT + ATK + HP + EC",
     "circlet": "CRIT + CRIT + ATK + HP + EC",
+    "critUser": true,
     "character": "AYATO",
     "description": "CHOOSE THIS ONE IF ITS GOOD FOR COMP",
     "setKey": "GladiatorsFinale",
@@ -17,6 +18,7 @@
     "goblet": "ANEMO/EM + CRIT + ATK + EC",
     "circlet": "CRIT/EM + CRIT + ATK + EC",
     "character": "JEAN",
+    "critUser": true,
     "description": "GOOD WITH Viridescent Venerer FOR SUBDPS",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -28,6 +30,7 @@
     "goblet": "GEO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "NAVIA",
+    "critUser": true,
     "description": "GOOD SECONDARY WITH Shimenawa's Reminiscence / Archaic Petra",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -39,6 +42,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "CLORINDE",
+    "critUser": true,
     "description": "GOOD AS SECONDARY SET",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -50,6 +54,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "YAE MIKO",
+    "critUser": true,
     "description": "GOOD SECONDARY SET - COMBINED WITH Shimenawa's Reminiscence / Thundering Fury",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -61,6 +66,7 @@
     "goblet": "ANEMO/EM + CRIT + ATK + EM",
     "circlet": "CRIT/EM + CRIT + ATK + EM",
     "character": "HEIZOU",
+    "critUser": true,
     "description": "BEST MAIN DPS SET COMBINED WITH Viridescent Venerer",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -72,6 +78,7 @@
     "goblet": "ATK + EC + ATK",
     "circlet": "ATK + EC + ATK",
     "character": "XIANYUN",
+    "critUser": true,
     "description": "BiS DPS SET COMBINED WITH Shimenawa's Reminiscence",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -83,6 +90,7 @@
     "goblet": "EM/PHYSICAL + EM + CRIT + ATK + EC",
     "circlet": "EM/CRIT + EM + CRIT + ATK + EC",
     "character": "RAZOR",
+    "critUser": true,
     "description": "GOOD SECONDARY",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -94,6 +102,7 @@
     "goblet": "PYRO + CRIT + ATK + EM",
     "circlet": "CRIT + CRIT + ATK + MC",
     "character": "ARLECCHINO",
+    "critUser": true,
     "description": "GOOD SECOND SET",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -105,6 +114,7 @@
     "goblet": "GEO + CRIT + ATK",
     "circlet": "CRIT + CRIT + ATK",
     "character": "NINGGUANG",
+    "critUser": true,
     "description": "GOOD SECONDARY COMBINED WITH Archaic Petra",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -116,6 +126,7 @@
     "goblet": "GEO + CRIT + ATK",
     "circlet": "CRIT + CRIT + EC",
     "character": "TRAVELER(GEO)",
+    "critUser": false,
     "description": "GOOD SET IF YOU HAVE SOMEONE WITH Nobless Oblige COMBINE IT WITH Archaic Petra",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -127,6 +138,7 @@
     "goblet": "HYDRO + CRIT + EC + ATK",
     "circlet": "CRIT + CRIT + EC + ATK",
     "character": "TRAVELER(HYDRO)",
+    "critUser": true,
     "description": "BiS COMBINED WITH Heart of Depth",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -138,6 +150,7 @@
     "goblet": "ANEMO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "XIAO",
+    "critUser": true,
     "description": "GOOD SECONDARY WITH Vermillion Hereafter",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -149,6 +162,7 @@
     "goblet": "ATK + EC + ATK + CRIT",
     "circlet": "HEAL/ATK + EC + ATK + CRIT",
     "character": "CHARLOTTE",
+    "critUser": false,
     "description": "BEST SET FOR SUB DPS COMBINED WITH Emblem of Severed Fate / Ocean-Hued Clam",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -161,6 +175,7 @@
     "goblet": "ATK + CRIT + EC + ATK",
     "circlet": "ATK + CRIT + EC + ATK",
     "character": "SHENHE",
+    "critUser": false,
     "description": "BiS - INCREASES DMG WITH SKILLS COMBINE WITH Shimenawa's Reminiscence",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -172,6 +187,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "KEQUING",
+    "critUser": true,
     "description": "BEST SET FOR OVERLOAD COMPS COMBINED WITH Thundering Fury",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -183,6 +199,7 @@
     "goblet": "ANEMO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "LYNETTE",
+    "critUser": true,
     "description": "BEST SET FOR MAIN DPS COMBINED WITH Viridescent Venerer",
     "setKey": "GladiatorsFinale",
     "set_image": "seii_76.png"
@@ -194,6 +211,7 @@
     "goblet": "EM + EC",
     "circlet": "EM +EC",
     "character": "KAZUHA",
+    "critUser": false,
     "description": "BiS",
     "setKey": "ViridescentVenerer",
     "set_image": "seii_77.png"
@@ -205,6 +223,7 @@
     "goblet": "EM + EC",
     "circlet": "EM +EC",
     "character": "VENTI",
+    "critUser": false,
     "description": "BiS ",
     "setKey": "ViridescentVenerer",
     "set_image": "seii_77.png"
@@ -216,6 +235,7 @@
     "goblet": "ATK + EC + ATK",
     "circlet": "ATK + EC + ATK",
     "character": "XIANYUN",
+    "critUser": false,
     "description": "BiS SUPP - FOR FIRE/WATER/ELECTRO/ICE FORMATIONS",
     "setKey": "ViridescentVenerer",
     "set_image": "seii_77.png"
@@ -227,6 +247,7 @@
     "goblet": "ANEMO/EM + CRIT + ATK + EM",
     "circlet": "CRIT/EM + CRIT + ATK + EM",
     "character": "HEIZOU",
+    "critUser": true,
     "description": "BEST SUB DPS 4 SET + CAN ALSO BE COMBINED WITH Gladiator's Finale IF YOU WANT TO USE HER AS A MAIN DPS",
     "setKey": "ViridescentVenerer",
     "set_image": "seii_77.png"
@@ -238,6 +259,7 @@
     "goblet": "ATK/EM + EM + ATK + EC",
     "circlet": "ATK/EM/CRIT + EM + ATK + EC",
     "character": "SAYU",
+    "critUser": false,
     "description": "BiS",
     "setKey": "ViridescentVenerer",
     "set_image": "seii_77.png"
@@ -249,6 +271,7 @@
     "goblet": "EM + EC + ATK",
     "circlet": "EM +EC + ATK",
     "character": "TRAVELER(ANEMO)",
+    "critUser": false,
     "description": "BiS",
     "setKey": "ViridescentVenerer",
     "set_image": "seii_77.png"
@@ -260,6 +283,7 @@
     "goblet": "ANEMO/EM + CRIT + ATK + EC",
     "circlet": "CRIT/EM + CRIT + ATK + EC",
     "character": "JEAN",
+    "critUser": true,
     "description": "BiS - GOOD DEBUFFER BUILD USE WITH FIRE/ELECTRO/CRYO/WATER",
     "setKey": "ViridescentVenerer",
     "set_image": "seii_77.png"
@@ -271,6 +295,7 @@
     "goblet": "ANEMO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "LYNETTE",
+    "critUser": true,
     "description": "BEST SET FOR SUB DPS",
     "setKey": "ViridescentVenerer",
     "set_image": "seii_77.png"
@@ -282,6 +307,7 @@
     "goblet": "EM + EC",
     "circlet": "EM/EC + EM/EC",
     "character": "SUCROSE",
+    "critUser": false,
     "description": "BiS",
     "setKey": "ViridescentVenerer",
     "set_image": "seii_77.png"
@@ -293,6 +319,7 @@
     "goblet": "GEO + CRIT + DEF",
     "circlet": "CRIT + CRIT + DEF",
     "character": "ALBEDO",
+    "critUser": true,
     "description": "BEST SET FOR TEAMS THAT INCREASE DEFENCE",
     "setKey": "HuskofOpulentDreams",
     "set_image": "seii_175.png"
@@ -304,6 +331,7 @@
     "goblet": "GEO/DEF + CRIT + DEF + ATK + EC",
     "circlet": "CRIT + CRIT + DEF + ATK + EC",
     "character": "CHIORI",
+    "critUser": true,
     "description": "BEST SET IF YOU HAVE MAXED OUT CHIORI",
     "setKey": "HuskofOpulentDreams",
     "set_image": "seii_175.png"
@@ -315,6 +343,7 @@
     "goblet": "GEO/DEF + CRIT + DEF + EC",
     "circlet": "CRIT + CRIT + DEF + EC",
     "character": "KACHINA",
+    "critUser": true,
     "description": "GOOD SECONDARY IF YOU RAISE DEFENCE",
     "setKey": "HuskofOpulentDreams",
     "set_image": "seii_175.png"
@@ -326,6 +355,7 @@
     "goblet": "GEO + CRIT + EC + DEF",
     "circlet": "CRIT + CRIT + EC + DEF",
     "character": "ITTO",
+    "critUser": true,
     "description": "BiS",
     "setKey": "HuskofOpulentDreams",
     "set_image": "seii_175.png"
@@ -337,6 +367,7 @@
     "goblet": "GEO + CRIT + EC + DEF",
     "circlet": "CRIT + CRIT + EC + DEF",
     "character": "NOELLE",
+    "critUser": true,
     "description": "BEST SET OVERALL",
     "setKey": "HuskofOpulentDreams",
     "set_image": "seii_175.png"
@@ -346,8 +377,9 @@
     "plume": "DEF + EC",
     "sands": "EC/DEF + DEF + EC",
     "goblet": "GEO/DEF + DEF + EC",
-    "circlet": "CRIT/DEF + DEF + EC",
+    "circlet": "DEF + DEF + EC",
     "character": "GOROU",
+    "critUser": false,
     "description": "BEST SUB DPS BUILD",
     "setKey": "HuskofOpulentDreams",
     "set_image": "seii_175.png"
@@ -359,6 +391,7 @@
     "goblet": "DEF + EC + DEF + CRIT",
     "circlet": "DEF + EC + DEF + CRIT",
     "character": "UNKIN",
+    "critUser": false,
     "description": "BiS",
     "setKey": "HuskofOpulentDreams",
     "set_image": "seii_175.png"
@@ -370,6 +403,7 @@
     "goblet": "DENDRO + CRIT + EM + EC",
     "circlet": "CRIT + CRIT + EM + EC",
     "character": "ALHAITHAM",
+    "critUser": true,
     "description": "BiS - USE THIS SET WITH FEWER DENDRO CHRACTERS SO YOU GET MORE ELEMENTAL MASTERY",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -381,6 +415,7 @@
     "goblet": "PYRO + CRIT + EM + ATK + EC",
     "circlet": "CRIT + CRIT + EM + ATK + EC",
     "character": "DILUC",
+    "critUser": true,
     "description": "GOOD SECONDARY OPTION RAISES ELEMETAL MASTER TO +230",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -392,6 +427,7 @@
     "goblet": "HYDRO + CRIT + HP + EM + EC",
     "circlet": "CRIT + CRIT + HP + EM + EC",
     "character": "MUALANI",
+    "critUser": true,
     "description": "GOOD SECOND SET IF YOU DON'T HAVE ANY WATER CHARACTERS IN YOUR COMP AND YOU HAVE EM GAINS",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -403,6 +439,7 @@
     "goblet": "EM + EC + ATK",
     "circlet": "EM + EC + ATK",
     "character": "RAIDEN",
+    "critUser": true,
     "description": "GOOD WITH LOTS OF ELEMENTAL REACTIONS (WHEN HAVING 4 DIFFRENT ELEMENTS IN COMP)",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -414,6 +451,7 @@
     "goblet": "CRYO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "ROSARIA",
+    "critUser": true,
     "description": "GOOD IN COMPS WITH 4 DIFFRENT ELEMENTS",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -425,6 +463,7 @@
     "goblet": "DENDRO + CRIT + ATK + EC + EM",
     "circlet": "CRIT + CRIT + ATK + EC + EM",
     "character": "COLLEI",
+    "critUser": true,
     "description": "BEST SET IF YOU HAVE 4 DIFFRENT ELEMENT CHARACTERS",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -436,6 +475,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "KEQUING",
+    "critUser": true,
     "description": "BEST SET WITH DENDRO COMPS",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -447,6 +487,7 @@
     "goblet": "ELECTRO + EC + CRIT + ATK + EM",
     "circlet": "CRIT + CRIT + EC + ATK + EM",
     "character": "LISA",
+    "critUser": true,
     "description": "BEST SET IF YOU HAVE 4 DIFFRENT ELEMENT CHARACTERS",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -458,6 +499,7 @@
     "goblet": "DENDRO + CRIT + EM + EC",
     "circlet": "CRIT/EM + CRIT + EM + EC",
     "character": "NAHIDA",
+    "critUser": true,
     "description": "GOOD IF YOU HAVE SOMEONE WITH Deepwood Memories",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -469,6 +511,7 @@
     "goblet": "EM/PHYSICAL + EM + CRIT + ATK + EC",
     "circlet": "EM/CRIT + EM + CRIT + ATK + EC",
     "character": "RAZOR",
+    "critUser": true,
     "description": "BEST SET IF YOU HAVE 4 DIFFRENT ELEMENT CHARACTERS",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -480,6 +523,7 @@
     "goblet": "HP + EC + HP",
     "circlet": "HEAL/HP + EC + HP",
     "character": "YAOYAO",
+    "critUser": false,
     "description": "BEST SET WHEN USED WITH 4 DIFFRENT ELEMENT CHARACTERS",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -491,6 +535,7 @@
     "goblet": "EM/DENDRO + EC + CRIT + ATK",
     "circlet": "EM/CRIT + EC + CRIT + ATK",
     "character": "KAVEH",
+    "critUser": false,
     "description": "BEST SET IF YOU HAVE 4 DIFFRENT ELEMENT CHARACTERS",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -502,6 +547,7 @@
     "goblet": "ELECTRO + CRIT + EM + EC + ATK",
     "circlet": "CRIT + CRIT + EM + EC + ATK",
     "character": "SETHOS",
+    "critUser": true,
     "description": "BEST SET WITH 4 DIFFRENT ELEMENT CHARACTERS",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -513,6 +559,7 @@
     "goblet": "HYDRO + HP + EC + EM",
     "circlet": "HEAL + HP + EC + EM",
     "character": "BARBARA",
+    "critUser": false,
     "description": "BEST SET FOR BLOOM COMBINED WITH Wanderer's Troupe",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -524,6 +571,7 @@
     "goblet": "ELECTRO + CRIT + EC + EM + ATK",
     "circlet": "CRIT + CRIT + EC + EM + ATK",
     "character": "CYNO",
+    "critUser": true,
     "description": "BEST SET WITH 4 DIFFRENT ELEMENT CHARACTERS",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -535,6 +583,7 @@
     "goblet": "EM + EC + HP + CRIT + EM",
     "circlet": "EM + EC + HP + CRIT + EM",
     "character": "THOMA",
+    "critUser": false,
     "description": "GOOD SET IF YOU HAVE 4 DIFFRENT ELEMENTS IN COMP",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -546,6 +595,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "YAE MIKO",
+    "critUser": true,
     "description": "GOOD IF YOU HAVE HIGH ATK AND ELEMENTAL MASTERY",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -557,6 +607,7 @@
     "goblet": "DENDRO + CRIT + EM + ATK",
     "circlet": "CRIT + CRIT + EM + ATK",
     "character": "TIGHNARI",
+    "critUser": true,
     "description": "GOOD FOR DMG WITH LESS DENDRO MEMBERS",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -568,6 +619,7 @@
     "goblet": "EM + HP + ATK",
     "circlet": "EM + EC + ATK",
     "character": "KUKI",
+    "critUser": false,
     "description": "BiS FOR NON-BLOOM VERY GOOD WITH 4 DIFFRENT ELEMENTS IN COMP",
     "setKey": "GildedDreams",
     "set_image": "seii_195.png"
@@ -579,6 +631,7 @@
     "goblet": "CRYO + CRIT + ATK + EM",
     "circlet": "CRIT + ATK + EM",
     "character": "ALOY",
+    "critUser": true,
     "description": "BiS",
     "setKey": "BlizzardStrayer",
     "set_image": "seii_140.png"
@@ -590,6 +643,7 @@
     "goblet": "CRYO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "ROSARIA",
+    "critUser": true,
     "description": "MAIN DPS SET",
     "setKey": "BlizzardStrayer",
     "set_image": "seii_140.png"
@@ -601,6 +655,7 @@
     "goblet": "CRYO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "KAEYA",
+    "critUser": true,
     "description": "BEST SET FOR CRYO TEAMS",
     "setKey": "BlizzardStrayer",
     "set_image": "seii_140.png"
@@ -612,6 +667,7 @@
     "goblet": "CRYO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "CHONGYUN",
+    "critUser": true,
     "description": "BEST SET FOR SUB DPS COMBINED WITH Noblesse Oblige",
     "setKey": "BlizzardStrayer",
     "set_image": "seii_140.png"
@@ -623,6 +679,7 @@
     "goblet": "PHYSICAL/CRYO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "FREMINENET",
+    "critUser": true,
     "description": "GOOD FOR ICE TEAMS COMBINED WITH Golden Troupe / Blizzard Strayer",
     "setKey": "BlizzardStrayer",
     "set_image": "seii_140.png"
@@ -634,6 +691,7 @@
     "goblet": "CRYO + CRIT + ATK + EC",
     "circlet": "CRIT + ATK + EC",
     "character": "AYAKA",
+    "critUser": true,
     "description": "BEST SET FOR DPS",
     "setKey": "BlizzardStrayer",
     "set_image": "seii_140.png"
@@ -645,6 +703,7 @@
     "goblet": "CRYO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "WRIOTHESLEY",
+    "critUser": true,
     "description": "BiS - ONLY WORKS WITH CRIO TEAMS",
     "setKey": "BlizzardStrayer",
     "set_image": "seii_140.png"
@@ -656,6 +715,7 @@
     "goblet": "CRYO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "GANYU",
+    "critUser": true,
     "description": "BiS",
     "setKey": "BlizzardStrayer",
     "set_image": "seii_140.png"
@@ -667,6 +727,7 @@
     "goblet": "PYRO + CRIT + ATK + EM",
     "circlet": "CRIT + CRIT + ATK + MC",
     "character": "ARLECCHINO",
+    "critUser": true,
     "description": "BiS - DMG AMP WHEN Bond of Life increases/decreases",
     "setKey": "Fragment of Harmonic Whimsy",
     "set_image": "seii_240.png"
@@ -678,6 +739,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "CLORINDE",
+    "critUser": true,
     "description": "BiS - BEST SET BECAUSE Bond of Life",
     "setKey": "Fragment of Harmonic Whimsy",
     "set_image": "seii_240.png"
@@ -689,6 +751,7 @@
     "goblet": "GEO + CRIT + DEF",
     "circlet": "CRIT + CRIT + DEF",
     "character": "ALBEDO",
+    "critUser": true,
     "description": "BEST SET THAT WORKS WITH ANYTHING",
     "setKey": "GoldenTroupe",
     "set_image": "seii_225.png"
@@ -700,6 +763,7 @@
     "goblet": "GEO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "NAVIA",
+    "critUser": true,
     "description": "GOOD FOR OFFFIELD-ROTATION - 2 SECONDS AFTER ENTERING BATTLE +70% DMG SKILL",
     "setKey": "GoldenTroupe",
     "set_image": "seii_225.png"
@@ -709,8 +773,9 @@
     "plume": "EC",
     "sands": "EC",
     "goblet": "ANEMO + EC",
-    "circlet": "CRIT + EC",
+    "circlet": "EC",
     "character": "FARUZAN",
+    "critUser": false,
     "description": "GOOD FOR USING HER AS SUB DPS",
     "setKey": "GoldenTroupe",
     "set_image": "seii_225.png"
@@ -722,6 +787,7 @@
     "goblet": "HP + CRIT + EC + HP",
     "circlet": "CRIT + CRIT + EC + HP",
     "character": "FURINA",
+    "critUser": true,
     "description": "BiS",
     "setKey": "GoldenTroupe",
     "set_image": "seii_225.png"
@@ -733,6 +799,7 @@
     "goblet": "PHYSICAL/CRYO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "FREMINENET",
+    "critUser": true,
     "description": "GOOD FOR ICE TEAMS COMBINED WITH Shimenawa's Reminiscence / Blizzard Strayer",
     "setKey": "GoldenTroupe",
     "set_image": "seii_225.png"
@@ -744,6 +811,7 @@
     "goblet": "GEO/DEF + CRIT + DEF + EC",
     "circlet": "CRIT + CRIT + DEF + EC",
     "character": "KACHINA",
+    "critUser": true,
     "description": "BEST SUB DPS BUILD",
     "setKey": "GoldenTroupe",
     "set_image": "seii_225.png"
@@ -755,6 +823,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "YAE MIKO",
+    "critUser": true,
     "description": "GOOD FOR ELEMENTAL SKILL DMG",
     "setKey": "GoldenTroupe",
     "set_image": "seii_225.png"
@@ -766,6 +835,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EM",
     "circlet": "CRIT + CRIT + ATK + EM",
     "character": "FISCHL",
+    "critUser": true,
     "description": "4 PIECE BiS FOR OZ DMG - GOOD WITH Thundering Fury IF NOT FULL SET",
     "setKey": "GoldenTroupe",
     "set_image": "seii_225.png"
@@ -777,6 +847,7 @@
     "goblet": "GEO/DEF + CRIT + DEF + ATK + EC",
     "circlet": "CRIT + CRIT + DEF + ATK + EC",
     "character": "CHIORI",
+    "critUser": true,
     "description": "BEST SUB DPS SET FOR OFFFIELD DMG",
     "setKey": "GoldenTroupe",
     "set_image": "seii_225.png"
@@ -787,7 +858,8 @@
     "sands": "EC",
     "goblet": "HP / FIRE + EC",
     "circlet": "HEAL + EC",
-    "character": "BENNET",
+    "character": "BENNETT",
+    "critUser": false,
     "description": "EB SUPP",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -799,6 +871,7 @@
     "goblet": "CRYO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "CHONGYUN",
+    "critUser": true,
     "description": "BEST SET FOR SUB DPS COMBINED WITH Blizzard Strayer",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -811,6 +884,7 @@
     "goblet": "ATK/HYDRO + EC + CRIT + ATK",
     "circlet": "CRIT + EC + CRIT + ATK",
     "character": "MONA",
+    "critUser": true,
     "description": "GOOD SUPPORT SET IF NO Noblesse Oblige",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -822,6 +896,7 @@
     "goblet": "ATK + EC + ATK",
     "circlet": "ATK + EC + ATK",
     "character": "XIANYUN",
+    "critUser": false,
     "description": "GOOD WITH XIAO OR PHYSICAL CHARACTER",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -833,6 +908,7 @@
     "goblet": "HP + EC + HP",
     "circlet": "HP + EC + HP",
     "character": "DIONA",
+    "critUser": false,
     "description": "GOOD SET IF YOU NEED Noblesse Oblige",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -844,6 +920,7 @@
     "goblet": "ATK + EC + ATK + CRIT",
     "circlet": "HEAL/ATK + EC + ATK + CRIT",
     "character": "CHARLOTTE",
+    "critUser": false,
     "description": "GOOD SET IF YOU DON'T HAVE ANYONE WITH Noblesse Oblige",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -855,6 +932,7 @@
     "goblet": "HP/ELECTRO + EC + CRIT + ATK",
     "circlet": "HEAL/CRIT + HP + EC + CRIT",
     "character": "DORI",
+    "critUser": false,
     "description": "GOOD SET IF YOU DON'T HAVE ANYONE WITH Noblesse Oblige",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -866,6 +944,7 @@
     "goblet": "PHYSICAL + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "XINYAN",
+    "critUser": true,
     "description": "BEST SET MAKE SURE YOU DON'T HAVE ANYONE WITH THIS SET IN COMP",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -877,6 +956,7 @@
     "goblet": "GEO + CRIT + ATK",
     "circlet": "CRIT + CRIT + EC",
     "character": "TRAVELER(GEO)",
+    "critUser": false,
     "description": "BEST SET IF YOU DON'T HAVE ANYONE WITH Noblesse Oblige",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -888,6 +968,7 @@
     "goblet": "PYRO + CRIT + ATK + EC + EM",
     "circlet": "CRIT + CRIT + ATK + EC + EM",
     "character": "AMBER",
+    "critUser": true,
     "description": "BEST SET SINCE SHE IS SO USLESS MAKE SURE TO NOT HAVE ANYONE ELSE WITH Noblesse Oblige",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -899,6 +980,7 @@
     "goblet": "HP + EC + HP",
     "circlet": "HP/HEAL + EC + HP",
     "character": "MIKA",
+    "critUser": false,
     "description": "BEST SET IF YOU DON'T HAVE ANYONE WITH Noblesse Oblige",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -910,6 +992,7 @@
     "goblet": "CRYO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "ROSARIA",
+    "critUser": true,
     "description": "GOOD SET IF YOU NEED Noblesse Oblige",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -921,6 +1004,7 @@
     "goblet": "EM + EC + HP + CRIT + EM",
     "circlet": "EM + EC + HP + CRIT + EM",
     "character": "THOMA",
+    "critUser": false,
     "description": "GOOD OPTION IF NO Noblesse Oblige",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -932,6 +1016,7 @@
     "goblet": "HP/PYRO + CRIT + ATK + HP + EM",
     "circlet": "HP/CIRT + CRIT + ATK + HP + EM",
     "character": "CHEVREUSE",
+    "critUser": true,
     "description": "BiS IF YOU NEED Noblesse Oblige",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -943,6 +1028,7 @@
     "goblet": "ANEMO + EC",
     "circlet": "CRIT + EC",
     "character": "FARUZAN",
+    "critUser": false,
     "description": "BEST WITH NO OTHER Noblesse Oblige",
     "setKey": "NoblesseOblige",
     "set_image": "seii_82.png"
@@ -954,6 +1040,7 @@
     "goblet": "HP/HYDRO + HP + CRIT + EC",
     "circlet": "HP/CRIT + HP + CRIT + EC",
     "character": "CANDANCE",
+    "critUser": false,
     "description": "BEST SET IF YOU DON'T HAVE ANYONE WITH Noblesse Oblige",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -964,7 +1051,8 @@
     "sands": "HP + CRIT + HP + EC",
     "goblet": "HYDRO + CRIT + HP + EC",
     "circlet": "CRIT + CRIT + HP + EC",
-    "character": "NUVILETTE",
+    "character": "NEUVILLETTE",
+    "critUser": true,
     "description": "BiS",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -976,6 +1064,7 @@
     "goblet": "ANEMO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "LYNETTE",
+    "critUser": true,
     "description": "BEST SET AS MAIN DPS WITH FURINA",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -986,18 +1075,20 @@
     "sands": "ATK + CRIT + ATK + EC",
     "goblet": "DENDRO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
-    "character": "Chasca",
+    "character": "CHASCA",
+    "critUser": true,
     "description": "GOOD SECONDARY WITH FURINA",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
   },
   {
-    "flower": "EC",
-    "plume": "EC",
-    "sands": "EC",
-    "goblet": "ANEMO + EC",
+    "flower": "CRIT + EC",
+    "plume": "CRIT + EC",
+    "sands": "CRIT + EC",
+    "goblet": "ANEMO + CRIT + EC",
     "circlet": "CRIT + EC",
     "character": "FARUZAN",
+    "critUser": false,
     "description": "DPS SET - GOOD WITH FURINA",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -1009,6 +1100,7 @@
     "goblet": "ANEMO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "XIAO",
+    "critUser": true,
     "description": "GOOD SECONDARY WITH FURINA",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -1020,6 +1112,7 @@
     "goblet": "ATK/ELECTRO + CRIT + ATK + EC + EM",
     "circlet": "CRIT + CRIT + ATK + EC + EM",
     "character": "RAIDEN",
+    "critUser": true,
     "description": "GOOD AS MAIN DPS WITH FURINA",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -1030,7 +1123,8 @@
     "sands": "ATK + CRIT + ATK + EC",
     "goblet": "PYRO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
-    "character": "Lyney",
+    "character": "LYNEY",
+    "critUser": true,
     "description": "BiS Slot - ACTIVATE WITH HEAVY ATTACK TO INCREASE CRIT RATE BY 36%",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -1042,6 +1136,7 @@
     "goblet": "PYRO + CRIT + ATK + EC + EM",
     "circlet": "CRIT + CRIT + ATK + EC + EM",
     "character": "GAMING",
+    "critUser": true,
     "description": "BiS",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -1053,6 +1148,7 @@
     "goblet": "GEO + CRIT + EC + DEF",
     "circlet": "CRIT + CRIT + EC + DEF",
     "character": "NOELLE",
+    "critUser": true,
     "description": "BEST SET WITH FURINA",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -1064,6 +1160,7 @@
     "goblet": "GEO + CRIT + ATK",
     "circlet": "CRIT + CRIT + ATK",
     "character": "NINGGUANG",
+    "critUser": true,
     "description": "BEST SET WITH FURINA",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -1075,6 +1172,7 @@
     "goblet": "FIRE/ATK + CRIT + ATK + EC + EM",
     "circlet": "CRIT + CRIT + ATK + EC + EM",
     "character": "YANFEI",
+    "critUser": true,
     "description": "BEST SET WITH FURINA",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -1086,6 +1184,7 @@
     "goblet": "PYRO + CRIT + EM + HP",
     "circlet": "CRIT + CRIT + EM + HP",
     "character": "HU TAO",
+    "critUser": true,
     "description": "BiS - BEST WITH FURINA",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -1097,6 +1196,7 @@
     "goblet": "PYRO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "KLEE",
+    "critUser": true,
     "description": "BiS - BEST SET WITH FURINA",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -1108,6 +1208,7 @@
     "goblet": "PYRO + CRIT + EM + ATK + EC",
     "circlet": "CRIT + CRIT + EM + ATK + EC",
     "character": "DILUC",
+    "critUser": true,
     "description": "GOOD SECONDARY WITH FURINA",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -1119,6 +1220,7 @@
     "goblet": "CRYO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "WRIOTHESLEY",
+    "critUser": true,
     "description": "BiS - GOOD OVERALL",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -1130,6 +1232,7 @@
     "goblet": "HP + CRIT",
     "circlet": "HP + CRIT",
     "character": "ZHONGLI",
+    "critUser": false,
     "description": "BiS SUPP SET - CAN COMBINE WITH Vourukasha's Glow FOR BEST SHIELD VALUE",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1141,6 +1244,7 @@
     "goblet": "PYRO + CRIT + ATK + HP + EC",
     "circlet": "CRIT + CRIT + ATK + HP + EC",
     "character": "DEHYA",
+    "critUser": true,
     "description": "BEST BUILD FOR SUPPORT",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1152,6 +1256,7 @@
     "goblet": "HP/HYDRO + HP + EC + EM",
     "circlet": "HEAL + HP + EC + EM",
     "character": "KOKOMI",
+    "critUser": false,
     "description": "BEST SUPPORT BUILD",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1163,6 +1268,7 @@
     "goblet": "HP + EC + HP",
     "circlet": "HP + EC + HP",
     "character": "DIONA",
+    "critUser": false,
     "description": "BiS COMBINED WITH Emblem of Severed Fate",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1174,6 +1280,7 @@
     "goblet": "HP/CRYO + CRIT + EC + HP",
     "circlet": "HP/CRIT + CRIT + EC + HP",
     "character": "LAYLA",
+    "critUser": false,
     "description": "BiS",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1185,6 +1292,7 @@
     "goblet": "HP + EC + HP",
     "circlet": "HEAL/HP + EC + HP",
     "character": "YAOYAO",
+    "critUser": false,
     "description": "BEST SET FOR SUPPORTING ALLIES",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1196,6 +1304,7 @@
     "goblet": "HP/HYDRO + HP + CRIT + EC",
     "circlet": "HP/CRIT + HP + CRIT + EC",
     "character": "CANDANCE",
+    "critUser": false,
     "description": "BEST SET COMBINED WITH Emblem of Severed Fate",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1207,6 +1316,7 @@
     "goblet": "HP + HP + EC + CRIT",
     "circlet": "HP + HP + EC + CRIT",
     "character": "KIRARA",
+    "critUser": false,
     "description": "BEST SET COMBINED WITH Vourukasha's Glow",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1218,6 +1328,7 @@
     "goblet": "ATK + EC + ATK + CRIT",
     "circlet": "HEAL/ATK + EC + ATK + CRIT",
     "character": "CHARLOTTE",
+    "critUser": true,
     "description": "BEST SET FOR SUPP",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1229,6 +1340,7 @@
     "goblet": "HP + EC + HP",
     "circlet": "HP/HEAL + EC + HP",
     "character": "MIKA",
+    "critUser": false,
     "description": "GOOD SECONDARY COMBINED WITH Emblem of Severed Fate",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1240,6 +1352,7 @@
     "goblet": "GEO + CRIT + DEF",
     "circlet": "CRIT + CRIT + DEF",
     "character": "ALBEDO",
+    "critUser": true,
     "description": "GOOD SECONDARY SUPPORT SET",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1248,10 +1361,11 @@
     "flower": "HP + CRIT + EC",
     "plume": "HP + CRIT + EC",
     "sands": "HP + HP + CRIT + EC",
-    "goblet": "HP + HP + CRIT + EC",
-    "circlet": "HP + HP + CRIT + EC",
+    "goblet": "HYDRO + HP + CRIT + EC",
+    "circlet": "CRIT + CRIT + HP + EC",
     "character": "SIGEWINNE",
-    "description": "BEST SET WHEN USED WITH APPLICATORS LIKE FISCHL/YAE MIKO",
+    "critUser": true,
+    "description": "BEST SUB DPS SET WHEN USED WITH APPLICATORS LIKE FISCHL/YAE MIKO CAN ALSO COMBINE WITH Vourukasha's Glow",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
   },
@@ -1262,6 +1376,7 @@
     "goblet": "HP + EC + HP + CRIT + EM",
     "circlet": "HP + EC + HP + CRIT + EM",
     "character": "THOMA",
+    "critUser": false,
     "description": "BEST SET WITH OVERLOAD / BURNING",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1273,6 +1388,7 @@
     "goblet": "HP + EC + HP + EM",
     "circlet": "HP + EC + HP + EM",
     "character": "Baizhu",
+    "critUser": false,
     "description": "GOOD IF YOU HAVE SOMEONE WITH Deepwood Memories IN YOUR TEAM AND COMBINE IT WITH Emblem of Severed Fate",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1284,6 +1400,7 @@
     "goblet": "HP + HP + EM",
     "circlet": "HP + HP + EM",
     "character": "NILOU",
+    "critUser": false,
     "description": "BiS - FOR BLOOMING",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1295,6 +1412,7 @@
     "goblet": "ANEMO + EC",
     "circlet": "CRIT + EC",
     "character": "FARUZAN",
+    "critUser": false,
     "description": "BiS IF YOU HAVE FULL CONVEX ON HER",
     "setKey": "TenacityoftheMillelith",
     "set_image": "seii_150.png"
@@ -1306,6 +1424,7 @@
     "goblet": "DEF + EC + DEF",
     "circlet": "DEF + EC + DEF",
     "character": "XILONEN",
+    "critUser": false,
     "description": "BiS BECAUSE Nightsoul's Blessing STATE",
     "setKey": "ScrolloftheHeroofCinderCity",
     "set_image": "seii_250.png"
@@ -1317,6 +1436,7 @@
     "goblet": "HP/HYDRO + HP + CRIT + EC",
     "circlet": "HP/CRIT + HP + CRIT + EC",
     "character": "CANDANCE",
+    "critUser": false,
     "description": "BEST SET IF USING A NATLAN CHARACTER COMBINED WITH Emblem of Severed Fate",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1328,6 +1448,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EC + EM",
     "circlet": "CRIT + CRIT + ATK + EC + EM",
     "character": "Ororon",
+    "critUser": true,
     "description": "BiS BECAUSE Nightsoul's Blessing STATE",
     "setKey": "ScrolloftheHeroofCinderCity",
     "set_image": "seii_250.png"
@@ -1339,6 +1460,7 @@
     "goblet": "GEO/DEF + CRIT + DEF + EC",
     "circlet": "CRIT + CRIT + DEF + EC",
     "character": "KACHINA",
+    "critUser": true,
     "description": "BiS BECAUSE OF Nightsoul's Blessing",
     "setKey": "ScrolloftheHeroofCinderCity",
     "set_image": "seii_250.png"
@@ -1350,6 +1472,7 @@
     "goblet": "PYRO + CRIT + EC + ATK + EM",
     "circlet": "CRIT + CRIT +EM + ATK + EM",
     "character": "XIANGLING",
+    "critUser": true,
     "description": "GOOD WITH EMBLEM IF USING NATLAN CHARACTERS",
     "setKey": "ScrolloftheHeroofCinderCity",
     "set_image": "seii_250.png"
@@ -1360,7 +1483,8 @@
     "sands": "ATK + CRIT + ATK + EC",
     "goblet": "DENDRO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
-    "character": "Chasca",
+    "character": "CHASCA",
+    "critUser": true,
     "description": "GOOD SECONDARYA",
     "setKey": "MarechausseeHunter",
     "set_image": "seii_220.png"
@@ -1372,6 +1496,7 @@
     "goblet": "DENDRO + CRIT + EM + EC",
     "circlet": "CRIT/EM + CRIT + EM + EC",
     "character": "NAHIDA",
+    "critUser": true,
     "description": "SUPP SET FOR DENDRO RES REDUCTION",
     "setKey": "DeepwoodMemories",
     "set_image": "seii_190.png"
@@ -1383,6 +1508,7 @@
     "goblet": "DENDRO + CRIT + EM + ATK",
     "circlet": "CRIT + CRIT + EM + ATK",
     "character": "TIGHNARI",
+    "critUser": true,
     "description": "GOOD CHOICE IF NO ONE IN COMP WITH Deepwood Memories",
     "setKey": "DeepwoodMemories",
     "set_image": "seii_190.png"
@@ -1394,6 +1520,7 @@
     "goblet": "DENDRO + CRIT + ATK +EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "EMILY",
+    "critUser": true,
     "description": "NOT RECOMMENDED ONLY IF YOU DON'T HAVE BiS AND YOUR TEAM DOESN'T HAVE Deepwood Memories",
     "setKey": "DeepwoodMemories",
     "set_image": "seii_190.png"
@@ -1405,6 +1532,7 @@
     "goblet": "DENDRO + CRIT + ATK + EC + EM",
     "circlet": "CRIT + CRIT + ATK + EC + EM",
     "character": "COLLEI",
+    "critUser": true,
     "description": "BEST SET IF YOU DON'T HAVE Deepwood Memories",
     "setKey": "DeepwoodMemories",
     "set_image": "seii_190.png"
@@ -1416,6 +1544,7 @@
     "goblet": "EM/DENDRO + EC + CRIT + ATK",
     "circlet": "EM/CRIT + EC + CRIT + ATK",
     "character": "KAVEH",
+    "critUser": false,
     "description": "GOOD SET IF YOU DON'T HAVE ANYONE WITH Deepwood Memories",
     "setKey": "DeepwoodMemories",
     "set_image": "seii_190.png"
@@ -1427,6 +1556,7 @@
     "goblet": "HP + HP + EC + CRIT",
     "circlet": "HP + HP + EC + CRIT",
     "character": "KIRARA",
+    "critUser": false,
     "description": "BEST SET IF YOU DON'T HAVE ANYONE WITH Deepwood Memories",
     "setKey": "DeepwoodMemories",
     "set_image": "seii_190.png"
@@ -1438,6 +1568,7 @@
     "goblet": "HP + EC + HP",
     "circlet": "HEAL/HP + EC + HP",
     "character": "YAOYAO",
+    "critUser": false,
     "description": "BEST SET IF YOU DON'T HAVE ANYONE WITH Deepwood Memories",
     "setKey": "DeepwoodMemories",
     "set_image": "seii_190.png"
@@ -1449,6 +1580,7 @@
     "goblet": "DENDRO/EM + EM + CRIT + EC",
     "circlet": "CRIT/EM + EM + CRIT + EC",
     "character": "TRAVELER(DENDRO)",
+    "critUser": false,
     "description": "BiS",
     "setKey": "DeepwoodMemories",
     "set_image": "seii_190.png"
@@ -1460,6 +1592,7 @@
     "goblet": "HP + EC + HP + EM",
     "circlet": "HP + EC + HP + EM",
     "character": "Baizhu",
+    "critUser": false,
     "description": "GOOD IF YOU NEED Deepwood Memories",
     "setKey": "DeepwoodMemories",
     "set_image": "seii_190.png"
@@ -1471,6 +1604,7 @@
     "goblet": "PYRO + CRIT + EC + ATK + EM",
     "circlet": "CRIT + CRIT +EM + ATK + EM",
     "character": "XIANGLING",
+    "critUser": true,
     "description": "BiS FOR ROTATION RATE AND FIRE APPLICATION",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1482,6 +1616,7 @@
     "goblet": "HYDRO + CRIT + HP + EC",
     "circlet": "CRIT + CRIT + HP + EC",
     "character": "YELAN",
+    "critUser": true,
     "description": "BiS - FOR ROTATION AND WATER APPLICATION",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1493,6 +1628,7 @@
     "goblet": "HYDRO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "XINGQUI",
+    "critUser": true,
     "description": "BiS FOR ROTATION AND WATER APPLICATION",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1504,6 +1640,7 @@
     "goblet": "HP + EC + HP + CRIT + EM",
     "circlet": "HP + EC + HP + CRIT + EM",
     "character": "THOMA",
+    "critUser": false,
     "description": "BEST SET WITH OVERLOAD / BURNING",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1515,6 +1652,7 @@
     "goblet": "CRYO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "AYAKA",
+    "critUser": true,
     "description": "BEST SET FOR CRYO APPLICATOR",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1526,6 +1664,7 @@
     "goblet": "CRYO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "ROSARIA",
+    "critUser": true,
     "description": "BEST SET FOR SUB DPS",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1537,6 +1676,7 @@
     "goblet": "ATK + EC + ATK + CRIT",
     "circlet": "HEAL/ATK + EC + ATK + CRIT",
     "character": "CHARLOTTE",
+    "critUser": false,
     "description": "BEST SET FOR SUB DPS COMBINED WITH Gladiator's Finale / Ocean-Hued Clam",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1548,6 +1688,7 @@
     "goblet": "ELECTRO + EC + CRIT + ATK",
     "circlet": "CRIT + EC + CRIT + ATK",
     "character": "KUJO SARA",
+    "critUser": false,
     "description": "BiS",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1559,6 +1700,7 @@
     "goblet": "HP/ELECTRO + EC + CRIT + ATK",
     "circlet": "HEAL/CRIT + HP + EC + CRIT",
     "character": "DORI",
+    "critUser": false,
     "description": "BEST SET IF YOU WANT RECOVERY & DMG COMBINE IT WITH Ocean-Hued Clam",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1581,6 +1723,7 @@
     "goblet": "ELECTRO/EM + EC + CRIT + ATK",
     "circlet": "CRIT/EM + EC + CRIT + ATK + EM",
     "character": "TRAVELER(ELECTRO)",
+    "critUser": true,
     "description": "BEST SET COMBINED WITH Wanderer's Troupe",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1592,6 +1735,7 @@
     "goblet": "HP + EC + HP",
     "circlet": "HEAL/HP + EC + HP",
     "character": "YAOYAO",
+    "critUser": false,
     "description": "BEST SET FOR SUB DPS",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1603,6 +1747,7 @@
     "goblet": "HP + EC + HP",
     "circlet": "HP/HEAL + EC + HP",
     "character": "MIKA",
+    "critUser": false,
     "description": "GOOD SECONDARY SET COMBINED WITH Tenacity of the Millelith",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1614,6 +1759,7 @@
     "goblet": "CRYO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "KAEYA",
+    "critUser": true,
     "description": "BEST SET FOR SUB DPS",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1625,6 +1771,7 @@
     "goblet": "HP + EC + HP",
     "circlet": "HP + EC + HP",
     "character": "DIONA",
+    "critUser": false,
     "description": "BiS COMBINED WITH Tenacity of the Millelith",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1636,6 +1783,7 @@
     "goblet": "GEO/DEF + DEF + EC",
     "circlet": "CRIT/DEF + DEF + EC",
     "character": "GOROU",
+    "critUser": false,
     "description": "BEST SUB DPS BUILD",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1647,6 +1795,7 @@
     "goblet": "ATK/HYDRO + EC + CRIT + ATK",
     "circlet": "CRIT + EC + CRIT + ATK",
     "character": "MONA",
+    "critUser": true,
     "description": "BEST SUPPORT SET",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1658,6 +1807,7 @@
     "goblet": "PYRO + CRIT + ATK + HP + EC",
     "circlet": "CRIT + CRIT + ATK + HP + EC",
     "character": "DEHYA",
+    "critUser": true,
     "description": "BEST SUB DPS SET",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1669,6 +1819,7 @@
     "goblet": "HP + EC + HP + EM",
     "circlet": "HP + EC + HP + EM",
     "character": "Baizhu",
+    "critUser": false,
     "description": "IF YOU HAVE Deepwood Memories IN YOUR TEAM COMBINE THIS SET WITH Tenacity of the Millelith",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1680,6 +1831,7 @@
     "goblet": "ATK/ELECTRO + CRIT + ATK + EC + EM",
     "circlet": "CRIT + CRIT + ATK + EC + EM",
     "character": "RAIDEN",
+    "critUser": true,
     "description": "GOOD FOR ROTATION AND FIREPOWER",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1691,6 +1843,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "BEIDOU",
+    "critUser": true,
     "description": "BiS - GOOD FOR ROTATION AND FIREPOWER",
     "setKey": "EmblemofSeveredFate",
     "set_image": "seii_160.png"
@@ -1702,6 +1855,7 @@
     "goblet": "DENDRO + CRIT + ATK +EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "EMILY",
+    "critUser": true,
     "description": "BiS FOR BURGEON",
     "setKey": "UnfinishedReverie",
     "set_image": "seii_245.png"
@@ -1713,6 +1867,7 @@
     "goblet": "HYDRO + CRIT + HP + EM + EC",
     "circlet": "CRIT + CRIT + HP + EM + EC",
     "character": "MUALANI",
+    "critUser": true,
     "description": "GOOD WITH BURNING/EVAPORATION COMP WITH NAHIDA AND EMILY",
     "setKey": "UnfinishedReverie",
     "set_image": "seii_245.png"
@@ -1724,6 +1879,7 @@
     "goblet": "CRYO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "CHONGYUN",
+    "critUser": true,
     "description": "BEST SET FOR BURNING/MELTING COMPS",
     "setKey": "UnfinishedReverie",
     "set_image": "seii_245.png"
@@ -1735,6 +1891,7 @@
     "goblet": "DENDRO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "KINICH",
+    "critUser": true,
     "description": "GOOD SECONDARY FOR BURGEON",
     "setKey": "UnfinishedReverie",
     "set_image": "seii_245.png"
@@ -1746,6 +1903,7 @@
     "goblet": "CRYO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "ROSARIA",
+    "critUser": true,
     "description": "GOOD SET WITH MELTING/BURNING",
     "setKey": "UnfinishedReverie",
     "set_image": "seii_245.png"
@@ -1757,6 +1915,7 @@
     "goblet": "HP/PYRO + CRIT + ATK + HP + EM",
     "circlet": "HP/CIRT + CRIT + ATK + HP + EM",
     "character": "CHEVREUSE",
+    "critUser": true,
     "description": "BiS IF YOU DON'T NEED Noblesse Oblige",
     "setKey": "SongofDaysPast",
     "set_image": "seii_230.png"
@@ -1768,6 +1927,7 @@
     "goblet": "HP + HP + CRIT + EC",
     "circlet": "HP + HP + CRIT + EC",
     "character": "SIGEWINNE",
+    "critUser": false,
     "description": "REQUIRES A STRATEGY THAT ALLOWS BUFFS TO BE USED BY ATTACKERS",
     "setKey": "SongofDaysPast",
     "set_image": "seii_230.png"
@@ -1779,6 +1939,7 @@
     "goblet": "HYDRO + CRIT + ATK + EM",
     "circlet": "CRIT + CRIT + ATK + EM",
     "character": "CHILDE",
+    "critUser": true,
     "description": "BiS - BUFFS HYDRO DMG AND COMPATIBLE WITH ALL WEAPONS",
     "setKey": "Nymph's Dream",
     "set_image": "seii_210.png"
@@ -1790,6 +1951,7 @@
     "goblet": "HYDRO + CRIT + HP + EC",
     "circlet": "CRIT + CRIT + HP + EC",
     "character": "YELAN",
+    "critUser": true,
     "setKey": "Nymph's Dream",
     "set_image": "seii_210.png"
   },
@@ -1800,6 +1962,7 @@
     "goblet": "HYDRO + CRIT + ATK + HP + EC",
     "circlet": "CRIT + CRIT + ATK + HP + EC",
     "character": "AYATO",
+    "critUser": true,
     "description": "CHOOSE THIS ONE IF ITS GOOD FOR COMP",
     "setKey": "Nymph's Dream",
     "set_image": "seii_210.png"
@@ -1811,6 +1974,7 @@
     "goblet": "HYDRO + CRIT + HP + EC",
     "circlet": "CRIT + CRIT + HP + EC",
     "character": "YELAN",
+    "critUser": true,
     "setKey": "Vourukasha's Glow",
     "set_image": "seii_215.png"
   },
@@ -1821,6 +1985,7 @@
     "goblet": "HP + HP + EC + CRIT",
     "circlet": "HP + HP + EC + CRIT",
     "character": "KIRARA",
+    "critUser": false,
     "description": "BEST SET COMBINED WITH Tenacity of the Millelith",
     "setKey": "Vourukasha's Glow",
     "set_image": "seii_215.png"
@@ -1832,6 +1997,7 @@
     "goblet": "HP + CRIT",
     "circlet": "HP + CRIT",
     "character": "ZHONGLI",
+    "critUser": true,
     "description": "BEST DPS SET - CAN COMBINE WITH Tenacity of the Millelith FOR BEST SHIELD VALUE ",
     "setKey": "VourukasSha's Glow",
     "set_image": "seii_215.png"
@@ -1843,6 +2009,7 @@
     "goblet": "PYRO + CRIT + ATK + HP + EC",
     "circlet": "CRIT + CRIT + ATK + HP + EC",
     "character": "DEHYA",
+    "critUser": true,
     "description": "BEST DPS BUILD",
     "setKey": "Vourukasha's Glow",
     "set_image": "seii_215.png"
@@ -1851,9 +2018,10 @@
     "flower": "HP + CRIT + EC",
     "plume": "HP + CRIT + EC",
     "sands": "HP + HP + CRIT + EC",
-    "goblet": "HP + HP + CRIT + EC",
-    "circlet": "HP + HP + CRIT + EC",
+    "goblet": "HYDRO + HP + CRIT + EC",
+    "circlet": "CRIT + CRIT + HP + EC",
     "character": "SIGEWINNE",
+    "critUser": true,
     "description": "BiS - BEST OVERALL COMBINED WITH Tenacity of the Millelith",
     "setKey": "Vourukasha's Glow",
     "set_image": "seii_215.png"
@@ -1865,6 +2033,7 @@
     "goblet": "EM + EC + ATK",
     "circlet": "EM + EC + ATK",
     "character": "RAIDEN",
+    "critUser": false,
     "description": "GOOD WITH BLOOM, HYPERBLOOM, BURGEON",
     "setKey": "FlowerofParadiseLost",
     "set_image": "seii_205.png"
@@ -1876,6 +2045,7 @@
     "goblet": "EM/DENDRO + EC + CRIT + ATK",
     "circlet": "EM/CRIT + EC + CRIT + ATK",
     "character": "KAVEH",
+    "critUser": false,
     "description": "BEST SET OVERALL",
     "setKey": "FlowerofParadiseLost",
     "set_image": "seii_205.png"
@@ -1887,6 +2057,7 @@
     "goblet": "HP + EC + HP",
     "circlet": "HEAL/HP + EC + HP",
     "character": "YAOYAO",
+    "critUser": false,
     "description": "BEST SET FOR BLOOM",
     "setKey": "FlowerofParadiseLost",
     "set_image": "seii_205.png"
@@ -1898,6 +2069,7 @@
     "goblet": "DENDRO + CRIT + ATK + EC + EM",
     "circlet": "CRIT + CRIT + ATK + EC + EM",
     "character": "COLLEI",
+    "critUser": true,
     "description": "BEST SET OVERALL",
     "setKey": "FlowerofParadiseLost",
     "set_image": "seii_205.png"
@@ -1909,6 +2081,7 @@
     "goblet": "EM + HP + ATK",
     "circlet": "EM + EC + ATK",
     "character": "KUKI",
+    "critUser": false,
     "description": "BiS FOR BLOOM",
     "setKey": "FlowerofParadiseLost",
     "set_image": "seii_205.png"
@@ -1920,6 +2093,7 @@
     "goblet": "EM + EC + HP + CRIT + EM",
     "circlet": "EM + EC + HP + CRIT + EM",
     "character": "THOMA",
+    "critUser": false,
     "description": "BEST SET WITH BLOOM/HYPERBLOOM/BURGEON",
     "setKey": "FlowerofParadiseLost",
     "set_image": "seii_205.png"
@@ -1931,6 +2105,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "CLORINDE",
+    "critUser": true,
     "description": "GOOD FOR SECONDARY ESPECIALLY IF LOTS OF INTENSIFIED REACTIONS",
     "setKey": "ThunderingFury",
     "set_image": "seii_80.png"
@@ -1942,6 +2117,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "YAE MIKO",
+    "critUser": true,
     "description": "GOOD SECONDARY SET - COMBINED WITH ",
     "setKey": "Thundering Fury",
     "set_image": "seii_76.png"
@@ -1953,6 +2129,7 @@
     "goblet": "ELECTRO + CRIT + EM + EC + ATK",
     "circlet": "CRIT + CRIT + EM + EC + ATK",
     "character": "SETHOS",
+    "critUser": true,
     "description": "GOOD SECONDARY SET WITH ELECTRO COMP",
     "setKey": "ThunderingFury",
     "set_image": "seii_80.png"
@@ -1964,6 +2141,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EM",
     "circlet": "CRIT + CRIT + ATK + EM",
     "character": "FISCHL",
+    "critUser": true,
     "description": "GOOD SECONDARY WITH Golden Troupe",
     "setKey": "ThunderingFury",
     "set_image": "seii_80.png"
@@ -1975,6 +2153,7 @@
     "goblet": "ELECTRO + CRIT + EC + EM + ATK",
     "circlet": "CRIT + CRIT + EC + EM + ATK",
     "character": "CYNO",
+    "critUser": true,
     "description": "BEST SET WITH ANYTHING",
     "setKey": "ThunderingFury",
     "set_image": "seii_80.png"
@@ -1986,6 +2165,7 @@
     "goblet": "ELECTRO + EC + CRIT + ATK + EM",
     "circlet": "CRIT + CRIT + EC + ATK + EM",
     "character": "LISA",
+    "critUser": true,
     "description": "BEST SET IF YOU WANT TO REDUCE ELECTRO DMG AND GOOD FOR ATTACKING",
     "setKey": "ThunderingFury",
     "set_image": "seii_80.png"
@@ -1997,6 +2177,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "BEIDOU",
+    "critUser": true,
     "description": "GOOD SECONDARY COMBINED WITH Shimenawa's Reminiscence",
     "setKey": "ThunderingFury",
     "set_image": "seii_80.png"
@@ -2008,6 +2189,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "KEQUING",
+    "critUser": true,
     "description": "BEST SET IF YOU DON'T HAVE DENDRO CHARACTERS",
     "setKey": "ThunderingFury",
     "set_image": "seii_80.png"
@@ -2019,6 +2201,7 @@
     "goblet": "ANEMO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "XIAO",
+    "critUser": true,
     "description": "BiS",
     "setKey": "Vermillion Hereafter",
     "set_image": "seii_185.png"
@@ -2030,6 +2213,7 @@
     "goblet": "GEO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "NAVIA",
+    "critUser": true,
     "description": "BiS",
     "setKey": "NighttimeWhispersIntheEchoingWoods",
     "set_image": "seii_235.png"
@@ -2041,6 +2225,7 @@
     "goblet": "GEO + CRIT + ATK",
     "circlet": "CRIT + CRIT + ATK",
     "character": "NINGGUANG",
+    "critUser": true,
     "description": "BiS",
     "setKey": "NighttimeWhispersIntheEchoingWoods",
     "set_image": "seii_235.png"
@@ -2051,7 +2236,8 @@
     "sands": "ATK + CRIT + ATK + EC",
     "goblet": "DENDRO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
-    "character": "Chasca",
+    "character": "CHASCA",
+    "critUser": true,
     "description": "BiS - EASY TO ACTIVATE USING NIGHTSOUL POINT",
     "setKey": "Obsidian Codex",
     "set_image": "seii_256.png"
@@ -2063,6 +2249,7 @@
     "goblet": "ATK + CRIT + CRIT + EC + EM",
     "circlet": "CRIT + CRIT + ATK + EC + EM",
     "character": "KINICH",
+    "critUser": true,
     "description": "BiS - USES NIGHTSOUL BLESSING",
     "setKey": "Obsidian Codex",
     "set_image": "seii_256.png"
@@ -2074,6 +2261,7 @@
     "goblet": "HYDRO + CRIT + HP + EM + EC",
     "circlet": "CRIT + CRIT + HP + EM + EC",
     "character": "MUALANI",
+    "critUser": true,
     "description": "BiS - INCREASES DMG BASED ON Nightsoul points",
     "setKey": "Obsidian Codex",
     "set_image": "seii_256.png"
@@ -2085,6 +2273,7 @@
     "goblet": "PYRO + CRIT + EM + ATK + EC",
     "circlet": "CRIT + CRIT + EM + ATK + EC",
     "character": "DILUC",
+    "critUser": true,
     "description": "BiS",
     "setKey": "CrimsonWitchofFlames",
     "set_image": "seii_81.png"
@@ -2096,6 +2285,7 @@
     "goblet": "PYRO + CRIT + ATK + EC + EM",
     "circlet": "CRIT + CRIT + ATK + EC + EM",
     "character": "GAMING",
+    "critUser": true,
     "description": "GOOD SECONDARY RECOMMENDED EQUIP WITH CRIT WEAPON",
     "setKey": "CrimsonWitchofFlames",
     "set_image": "seii_81.png"
@@ -2107,6 +2297,7 @@
     "goblet": "FIRE/ATK + CRIT + ATK + EC + EM",
     "circlet": "CRIT + CRIT + ATK + EC + EM",
     "character": "YANFEI",
+    "critUser": true,
     "description": "BEST BUILD FOR OVERALL DMG",
     "setKey": "CrimsonWitchofFlames",
     "set_image": "seii_81.png"
@@ -2118,6 +2309,7 @@
     "goblet": "PYRO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "YOIMIYA",
+    "critUser": true,
     "description": "BEST SET WITH DOUBLE ELECTRO APPLICATORS",
     "setKey": "CrimsonWitchofFlames",
     "set_image": "seii_81.png"
@@ -2129,6 +2321,7 @@
     "goblet": "PYRO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "KLEE",
+    "critUser": true,
     "description": "BiS - GOOD WITHOUT FURINA",
     "setKey": "CrimsonWitchofFlames",
     "set_image": "seii_81.png"
@@ -2140,6 +2333,7 @@
     "goblet": "PYRO + CRIT + EM + HP",
     "circlet": "CRIT + CRIT + EM + HP",
     "character": "HU TAO",
+    "critUser": true,
     "description": "BiS WITH XINQUI/YILAN",
     "setKey": "CrimsonWitchofFlames",
     "set_image": "seii_81.png"
@@ -2151,6 +2345,7 @@
     "goblet": "ATK + CRIT + EC + ATK",
     "circlet": "ATK + CRIT + EC + ATK",
     "character": "SHENHE",
+    "critUser": false,
     "description": "BiS - INCREASES DMG WITH SKILLS COMBINE WITH Gladiator's Finale",
     "setKey": "ShimenawasReminiscence",
     "set_image": "seii_165.png"
@@ -2162,6 +2357,7 @@
     "goblet": "ANEMO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "XIAO",
+    "critUser": true,
     "description": "GOOD SECONDARY WITH Vermillion Hereafter",
     "setKey": "ShimenawasReminiscence",
     "set_image": "seii_165.png"
@@ -2173,6 +2369,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "YAE MIKO",
+    "critUser": true,
     "description": "GOOD SECONDARY SET - COMBINED WITH Gladiator's Finale",
     "setKey": "ShimenawasReminiscence",
     "set_image": "seii_165.png"
@@ -2184,6 +2381,7 @@
     "goblet": "ANEMO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "WANDERER",
+    "critUser": true,
     "description": "GOOD SECONDARY SET",
     "setKey": "ShimenawasReminiscence",
     "set_image": "seii_165.png"
@@ -2195,6 +2393,7 @@
     "goblet": "PYRO + CRIT + EM + HP",
     "circlet": "CRIT + CRIT + EM + HP",
     "character": "HU TAO",
+    "critUser": true,
     "description": "BEST SET FOR HEAVY ATTACK",
     "setKey": "ShimenawasReminiscence",
     "set_image": "seii_165.png"
@@ -2206,6 +2405,7 @@
     "goblet": "GEO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "NAVIA",
+    "critUser": true,
     "description": "GOOD SECONDARY WITH Gladiator's Finale",
     "setKey": "ShimenawasReminiscence",
     "set_image": "seii_165.png"
@@ -2217,6 +2417,7 @@
     "goblet": "ATK + EC + ATK",
     "circlet": "ATK + EC + ATK",
     "character": "XIANYUN",
+    "critUser": false,
     "description": "BiS DPS SET COMBINED WITH Gladiator's Finale",
     "setKey": "ShimenawasReminiscence",
     "set_image": "seii_165.png"
@@ -2228,6 +2429,7 @@
     "goblet": "PHYSICAL/CRYO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "FREMINENET",
+    "critUser": true,
     "description": "GOOD FOR ICE TEAMS COMBINED WITH Golden Troupe / Blizzard Strayer",
     "setKey": "ShimenawasReminiscence",
     "set_image": "seii_165.png"
@@ -2239,6 +2441,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "BEIDOU",
+    "critUser": true,
     "description": "GOOD SECONDARY COMBINED WITH Thundering Fury",
     "setKey": "ShimenawasReminiscence",
     "set_image": "seii_165.png"
@@ -2250,6 +2453,7 @@
     "goblet": "PYRO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "YOIMIYA",
+    "critUser": true,
     "description": "BiS - FOR NON-ELECTRO COMPS",
     "setKey": "ShimenawasReminiscence",
     "set_image": "seii_165.png"
@@ -2261,6 +2465,7 @@
     "goblet": "DENDRO + CRIT + EM + ATK",
     "circlet": "CRIT + CRIT + EM + ATK",
     "character": "TIGHNARI",
+    "critUser": true,
     "description": "BEST SET TO USE WITH DENDRO CHRARACTERS",
     "setKey": "Wanderer's Troupe",
     "set_image": "seii_78.png"
@@ -2272,6 +2477,7 @@
     "goblet": "FIRE/ATK + CRIT + ATK + EC + EM",
     "circlet": "CRIT + CRIT + ATK + EC + EM",
     "character": "YANFEI",
+    "critUser": true,
     "description": "BEST SET FOR HEAVY ATTACK DMG",
     "setKey": "Wanderer's Troupe",
     "set_image": "seii_78.png"
@@ -2283,6 +2489,7 @@
     "goblet": "ELECTRO/EM + EC + CRIT + ATK",
     "circlet": "CRIT/EM + EC + CRIT + ATK + EM",
     "character": "TRAVELER(ELECTRO)",
+    "critUser": true,
     "description": "BEST SET COMBINED WITH Emblem of Severed Fate",
     "setKey": "Wanderer's Troupe",
     "set_image": "seii_78.png"
@@ -2294,6 +2501,7 @@
     "goblet": "HYDRO + HP + EC + EM",
     "circlet": "HEAL + HP + EC + EM",
     "character": "BARBARA",
+    "critUser": false,
     "description": "BEST SET FOR BLOOM COMBINED WITH Gilded Dreams",
     "setKey": "Wanderer's Troupe",
     "set_image": "seii_78.png"
@@ -2305,6 +2513,7 @@
     "goblet": "ELECTRO + CRIT + EM + EC + ATK",
     "circlet": "CRIT + CRIT + EM + EC + ATK",
     "character": "SETHOS",
+    "critUser": true,
     "description": "BEST SET WORKS WITH ANYTHING",
     "setKey": "Wanderer's Troupe",
     "set_image": "seii_78.png"
@@ -2316,6 +2525,7 @@
     "goblet": "ATK/HYDRO + EC + CRIT + ATK",
     "circlet": "CRIT + EC + CRIT + ATK",
     "character": "MONA",
+    "critUser": true,
     "description": "BEST SET FOR DPS HEAVY ATTACKS",
     "setKey": "Wanderer's Troupe",
     "set_image": "seii_78.png"
@@ -2327,6 +2537,7 @@
     "goblet": "CRYO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "GANYU",
+    "critUser": true,
     "description": "GOOD SECONDARY SET",
     "setKey": "Wanderer's Troupe",
     "set_image": "seii_78.png"
@@ -2338,6 +2549,7 @@
     "goblet": "PYRO + CRIT + ATK + EM + EC",
     "circlet": "CRIT + CRIT + ATK + EM + EC",
     "character": "YOIMIYA",
+    "critUser": true,
     "description": "BiS - FOR NON-ELECTRO COMPS",
     "setKey": "EchoesofanOffering",
     "set_image": "seii_180.png"
@@ -2349,6 +2561,7 @@
     "goblet": "ANEMO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "WANDERER",
+    "critUser": true,
     "description": "GOOD SECONDARY SET",
     "setKey": "EchoesofanOffering",
     "set_image": "seii_180.png"
@@ -2360,6 +2573,7 @@
     "goblet": "ANEMO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "XIAO",
+    "critUser": true,
     "description": "GOOD SECONDARY COMBINED WITH Vermillion Hereafter",
     "setKey": "EchoesofanOffering",
     "set_image": "seii_180.png"
@@ -2371,6 +2585,7 @@
     "goblet": "ELECTRO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "CLORINDE",
+    "critUser": true,
     "description": "GOOD SECONDARY SET WITH DMG BUFFERS LIKE FURINA/KAZUHA",
     "setKey": "EchoesofanOffering",
     "set_image": "seii_180.png"
@@ -2382,6 +2597,7 @@
     "goblet": "HYDRO + CRIT + ATK + EM",
     "circlet": "CRIT + CRIT + ATK + EM",
     "character": "CHILDE",
+    "critUser": true,
     "description": "GOOD FOR SECOND SLOT - BUFFS ATTACKS",
     "setKey": "EchoesofanOffering",
     "set_image": "seii_180.png"
@@ -2393,6 +2609,7 @@
     "goblet": "HYDRO + CRIT + ATK + HP + EC",
     "circlet": "CRIT + CRIT + ATK + HP + EC",
     "character": "AYATO",
+    "critUser": true,
     "description": "CHOOSE THIS ONE IF ITS GOOD FOR COMP",
     "setKey": "Echoesofan Offering",
     "set_image": "seii_180.png"
@@ -2404,6 +2621,7 @@
     "goblet": "PYRO + CRIT + ATK + EM",
     "circlet": "CRIT + CRIT + ATK + MC",
     "character": "ARLECCHINO",
+    "critUser": true,
     "description": "GOOD WITH REPEATED NORMAL ATTACKS + THE MORE DMG BUFFS THE CARACTER HAS THE MORE EFFECTIVE IT IS",
     "setKey": "EchoesofanOffering",
     "set_image": "seii_180.png"
@@ -2415,6 +2633,7 @@
     "goblet": "HP/HYDRO + HP + EC + EM",
     "circlet": "HEAL + HP + EC + EM",
     "character": "KOKOMI",
+    "critUser": false,
     "description": "BEST SUB DPS BUILD",
     "setKey": "Ocean-Hued Clam",
     "set_image": "seii_170.png"
@@ -2426,6 +2645,7 @@
     "goblet": "HP + EC + HP + EM",
     "circlet": "HP + EC + HP + EM",
     "character": "Baizhu",
+    "critUser": false,
     "description": "RECOMMENDED WITH STRONG BURGEON FOR RECOVERY",
     "setKey": "Ocean-Hued Clam",
     "set_image": "seii_170.png"
@@ -2437,6 +2657,7 @@
     "goblet": "HP/ELECTRO + EC + CRIT + ATK",
     "circlet": "HEAL/CRIT + HP + EC + CRIT",
     "character": "DORI",
+    "critUser": false,
     "description": "BEST 4 SET IF YOU WANT HEALING + IF YOU WANT MORE DMG COMBINE IT WITH Emblem of Severed Fate",
     "setKey": "Ocean-Hued Clam",
     "set_image": "seii_170.png"
@@ -2448,6 +2669,7 @@
     "goblet": "ATK + ATK + CRIT + EC",
     "circlet": "HEAL/ATK + ATK + CRIT + EC",
     "character": "QUQI",
+    "critUser": false,
     "description": "BiS",
     "setKey": "Ocean-Hued Clam",
     "set_image": "seii_170.png"
@@ -2459,6 +2681,7 @@
     "goblet": "HP + EC + HP",
     "circlet": "HEAL/HP + EC + HP",
     "character": "YAOYAO",
+    "critUser": false,
     "description": "BEST SET FOR HEALING",
     "setKey": "Ocean-Hued Clam",
     "set_image": "seii_170.png"
@@ -2470,6 +2693,7 @@
     "goblet": "ATK + EC + ATK + CRIT",
     "circlet": "HEAL/ATK + EC + ATK + CRIT",
     "character": "CHARLOTTE",
+    "critUser": false,
     "description": "BEST SET FOR SUB DPS COMBINED WITH Emblem of Severed Fate / Gladiator's Finale",
     "setKey": "Ocean-Hued Clam",
     "set_image": "seii_170.png"
@@ -2480,7 +2704,9 @@
     "sands": "HP + HP + CRIT + EC",
     "goblet": "HP + HP + CRIT + EC",
     "circlet": "HP + HP + CRIT + EC",
-    "character": "SIGEWINNE(DPS)",
+    "critUser": false,
+    "character": "SIGEWINNE",
+    "description": "BEST SET FOR HEAL BUFF",
     "setKey": "Ocean-Hued Clam",
     "set_image": "seii_170.png"
   },
@@ -2491,6 +2717,7 @@
     "goblet": "HYDRO + HP + EC + EM",
     "circlet": "HEAL + HP + EC + EM",
     "character": "BARBARA",
+    "critUser": false,
     "description": "BEST SET FOR NON-BLOOM",
     "setKey": "Ocean-Hued Clam",
     "set_image": "seii_170.png"
@@ -2502,6 +2729,7 @@
     "goblet": "HYDRO + CRIT + ATK + HP + EC",
     "circlet": "CRIT + CRIT + ATK + HP + EC",
     "character": "AYATO",
+    "critUser": true,
     "description": "CHOOSE THIS ONE IF ITS GOOD FOR COMP",
     "setKey": "HeartofDepth",
     "set_image": "seii_145.png"
@@ -2513,6 +2741,7 @@
     "goblet": "HYDRO + CRIT + HP + EM + EC",
     "circlet": "CRIT + CRIT + HP + EM + EC",
     "character": "MUALANI",
+    "critUser": true,
     "description": "GOOD SECOND SET",
     "setKey": "HeartofDepth",
     "set_image": "seii_145.png"
@@ -2524,6 +2753,7 @@
     "goblet": "HYDRO + CRIT + ATK + EM",
     "circlet": "CRIT + CRIT + ATK + EM",
     "character": "CHILDE",
+    "critUser": true,
     "description": "GOOD SECOND SET WITH WEAPONS: Polar Star / Thundering Pulse",
     "setKey": "HeartofDepth",
     "set_image": "seii_145.png"
@@ -2535,6 +2765,7 @@
     "goblet": "HYDRO + CRIT + EC + ATK",
     "circlet": "CRIT + CRIT + EC + ATK",
     "character": "TRAVELER(HYDRO)",
+    "critUser": true,
     "description": "BiS COMBINED WITH Gladiator's Finale",
     "setKey": "HeartofDepth",
     "set_image": "seii_145.png"
@@ -2546,6 +2777,7 @@
     "goblet": "ANEMO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "WANDERER",
+    "critUser": true,
     "description": "BiS SET",
     "setKey": "Desert Pavilion Chronicle",
     "set_image": "seii_200.png"
@@ -2555,8 +2787,9 @@
     "plume": "DEF + EC",
     "sands": "EC/DEF + DEF + EC",
     "goblet": "GEO/DEF + DEF + EC",
-    "circlet": "CRIT/DEF + DEF + EC",
+    "circlet": "DEF + DEF + EC",
     "character": "GOROU",
+    "critUser": false,
     "description": "BEST SET IF YOU USE A HIGH-DMG CHRACTER WITH OTHER ELEMENT",
     "setKey": "ArchaicPetra",
     "set_image": "seii_84.png"
@@ -2568,6 +2801,7 @@
     "goblet": "GEO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "NAVIA",
+    "critUser": true,
     "description": "GOOD SECONDARY WITH Gladiator's Finale / Shimenawa's Reminiscence",
     "setKey": "ArchaicPetra",
     "set_image": "seii_84.png"
@@ -2579,6 +2813,7 @@
     "goblet": "HP + CRIT",
     "circlet": "HP + CRIT",
     "character": "ZHONGLI",
+    "critUser": false,
     "description": "SECOND BEST SET FOR SUPPORT",
     "setKey": "ArchaicPetra",
     "set_image": "seii_84.png"
@@ -2589,7 +2824,8 @@
     "sands": "ATK/EC + CRIT + EC",
     "goblet": "GEO + CRIT + ATK",
     "circlet": "CRIT + CRIT + EC",
-    "character": "TRAVELERTRAVELER(GEO)",
+    "character": "TRAVELER(GEO)",
+    "critUser": true,
     "description": "GOOD SET IF YOU HAVE SOMEONE WITH Nobless Oblige COMBINE IT WITH Gladiator's Finale",
     "setKey": "ArchaicPetra",
     "set_image": "seii_84.png"
@@ -2601,6 +2837,7 @@
     "goblet": "GEO + CRIT + ATK",
     "circlet": "CRIT + CRIT + ATK",
     "character": "NINGGUANG",
+    "critUser": true,
     "description": "GOOD SECONDARY COMBINED WITH Gladiator's Finale",
     "setKey": "ArchaicPetra",
     "set_image": "seii_84.png"
@@ -2612,6 +2849,7 @@
     "goblet": "PHYSICAL + CRIT + EC + ATK",
     "circlet": "CRIT + CRIT + EC + ATK",
     "character": "EULA",
+    "critUser": true,
     "description": "BiS",
     "setKey": "PaleFlame",
     "set_image": "seii_155.png"
@@ -2623,6 +2861,7 @@
     "goblet": "PHYSICAL/CRYO + CRIT + ATK + EC",
     "circlet": "CRIT + CRIT + ATK + EC",
     "character": "FREMINENET",
+    "critUser": true,
     "description": "BiS - ESPECIALLY FOR PHYSICAL ATTACK COMP",
     "setKey": "PaleFlame",
     "set_image": "seii_155.png"
@@ -2634,6 +2873,7 @@
     "goblet": "EM/PHYSICAL + EM + CRIT + ATK + EC",
     "circlet": "EM/CRIT + EM + CRIT + ATK + EC",
     "character": "RAZOR",
+    "critUser": true,
     "description": "GOOD SECONDARY COMBINED WITH Bloodstained Chivalry",
     "setKey": "PaleFlame",
     "set_image": "seii_155.png"
@@ -2645,8 +2885,10 @@
     "goblet": "EM/PHYSICAL + EM + CRIT + ATK + EC",
     "circlet": "EM/CRIT + EM + CRIT + ATK + EC",
     "character": "RAZOR",
+    "critUser": true,
     "description": "GOOD SECONDARY COMBINED WITH Pale Flame",
     "setKey": "BloodstainedChivalry",
     "set_image": "seii_83.png"
   }
 ]
+
